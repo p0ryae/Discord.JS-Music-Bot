@@ -2,7 +2,7 @@
 
 Make your own **Discord.JS** **Music Bot** Using **DisTube**!
 
-> Before we get started, I have a whole toturial about this uploaded on YouTube. Save yourself some time by watching the video using this [Link](http://github.com)!
+> Before we get started, I have a whole toturial about this uploaded on YouTube. Save yourself some time by watching the video using this [Link](https://youtu.be/Zxx0AQZ29lM)!
 
 ## 📕 Requirements
 
